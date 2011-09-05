@@ -1,0 +1,14 @@
+Status: active
+
+To                         Action      From
+--                         ------      ----
+53                         ALLOW       Anywhere
+22                         ALLOW       Anywhere
+80                         ALLOW       Anywhere
+67                         ALLOW       Anywhere
+68                         ALLOW       Anywhere
+Anywhere                   ALLOW       192.168.59.0/24
+8118                       ALLOW       Anywhere
+9050                       ALLOW       Anywhere
+443                        ALLOW       Anywhere
+
